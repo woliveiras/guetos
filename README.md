@@ -178,8 +178,8 @@ Semana 10 | Tecnologias server side: banco de dados, ORM | Criar um CRUD para ca
 Semana 11 | Tecnologias client side: introdução a HTML, CSS, semântica e acessibilidade | Criar uma página em HTML para listar os lugares mais legais do nosso bairro e colocar no GitHub. O código precisa ser semântico e passar nos testes de acessibilidade | 6
 Semana 12 | Tecnologias client side: JavaScript no navegador | Criar uma lâmpada com HTML e CSS e manipular ela com JavaScript. Ela deve acender e apagar. Devemos ter a lâmpada e um interruptor na tela. Devemos subir isso no GitHub. | 7
 Semana 13 | Tecnologias client side: DOM e APIs do navegador, diagramação com CSS | Criar uma página HTML de homenagem a alguém que gostamos muito, com layout corretamente renderizado, código semântico e subir no GitHub. | 4
-Semana 15 | Tecnologias client side: frameworks JS e CSS, SPAs | Criar uma SPA que lista nossos repositórios do GitHub, fazendo nosso portfólio bem diagramado (podendo utilizar algum framework para CSS também) e subir no GitHub. O código precisa ser bem estruturado, modular e testado. |18
-Semana 16 | Tecnologias client side: infraestrutura e hospedagem | Subir nosso portfólio em uma hospedagem gratuita. | 2
+Semana 14 | Tecnologias client side: frameworks JS e CSS, SPAs | Criar uma SPA que lista nossos repositórios do GitHub, fazendo nosso portfólio bem diagramado (podendo utilizar algum framework para CSS também) e subir no GitHub. O código precisa ser bem estruturado, modular e testado. |18
+Semana 15 | Tecnologias client side: infraestrutura e hospedagem | Subir nosso portfólio em uma hospedagem gratuita. | 2
 
 ## <a name='Cargahorriatotal'></a>Carga horária total
 
