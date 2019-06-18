@@ -78,7 +78,7 @@ Pessoa que trata de toda a parte organizacional dos encontros, como: encontrar u
 
 Pessoa que irá ensinar programação para os alunos, mentorar suas carreiras e lhes guiar nos exercícios práticos.
 
-#### <a name='Voluntriosas'></a>Voluntários(as)
+#### <a name='Voluntriosas'></a>voluntários(as)
 
 Pessoas que irão ajudar os mentores e mentoras revisando código de exercícios práticos dos alunos e alunas.
 
@@ -159,7 +159,7 @@ Este projeto pode ser planejado junto aos alunos e alunas, para resolver algum p
 1. Tecnologias server side
 1. Tecnologias client side
 
-## <a name='Crnograma'></a>Crônograma
+## <a name='Crnograma'></a>Cronograma
 
 
 |Semana| Atividade | Prática (opcional) | Carga horária | 
