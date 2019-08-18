@@ -24,7 +24,7 @@ Como um modelo para ensinar programação para pessoas de **regiões periférica
 	* [Agentes](#Agentes)
 		* [organizador(a)](#organizadora)
 		* [mentor(a)](#mentora)
-		* [Voluntários(as)](#voluntriosas)
+		* [voluntários(as)](#voluntriosas)
 		* [alunos(a)](#alunosa)
 * [Objetivos](#Objetivos)
 * [Público alvo](#Pblicoalvo)
