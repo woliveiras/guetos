@@ -17,7 +17,6 @@ Se você tem vontade de ensinar programação na sua região, mas não tem ideia
 <!-- vscode-markdown-toc -->
 * [Sumário](#Sumrio)
 * [Missão](#Misso)
-	* [Dobra a meta](#Dobraameta)
 * [Dinâmica dos encontros](#Dinmicadosencontros)
 	* [Agentes](#Agentes)
 		* [organizador(a)](#organizadora)
