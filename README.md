@@ -4,9 +4,9 @@ Iniciativa open source que visa espalhar programação para escolas públicas, O
 
 Qualquer pessoa pode implementar este projeto em qualquer lugar que achar possível.
 
-Este documento é um modelo para ensinarmos programação em qualquer lugar.
+Este documento é um modelo para ensinarmos programação. Você pode usar como base para o seu curso ou copiar a estrutura e mudar conforme suas necessidades/necessidades dos alunos e alunas.
 
-O documento contempla: estrutura do **programa Guetos Educacionais** do Tecnogueto, cronograma e materiais necessários para ensino.
+O documento contempla: estrutura do **programa Guetos Educacionais**, cronograma e materiais necessários para ensino. Este programa é uma iniciativa pessoal onde eu ensino pessoas nos CÉUs de São Paulo.
 
 Se você tem vontade de ensinar programação na sua região, mas não tem ideia de como fazer isso, aqui temos tudo o que você precisa para tirar esse desejo do papel.
 
@@ -170,7 +170,7 @@ Este projeto pode ser planejado junto aos alunos e alunas, para resolver algum p
 
 |Semana| Atividade | Prática (opcional) | Carga horária | 
 |--|--|--|--|
-Semana 00 | Dinâmica de reconhecimento de ambiente; apresentação para os participantes; estimular os alunos a colocar em seu LinkedIn que estão estudando através do Tecnogueto. | Criar uma conta no GitHub. | 4
+Semana 00 | Dinâmica de reconhecimento de ambiente; apresentação para os participantes | Criar uma conta no GitHub. | 4
 Semana 01 | Introdução ao terminal; configuração do ambiente de desenvolvimento (instalação do interpretador da linguagem de programação, editor de código e Git). | Subir um repositório de estudos sobre terminal no GitHub com as anotações em um arquivo de texto ou Markdown. | 4
 Semana 02 | Introdução a programação: como funciona um programa de computador (plataformas (web, mobile, server, hardware), linguagens (alto e baixo nível)), sistemas operacionais, lógica de programação, sintaxe básica da linguagem (a estrutura de um programa), arquivos, debug, nosso primeiro programa em linha de comando (hello world). | Criar uma calculadora via terminal e subir no GitHub (calculadora simples, que só faz uma função e temos que alterar o código se quisermos fazer outra operação). | 4
 Semana 03 | Introdução a programação: manipulação de valores, identificadores, tipos de dados, operadores matemáticos, operadores condicionais, operadores lógicos, laços de repetição, funções e módulos. | Criar um utilitário de linha de comando onde inserimos dados financeiros de um grupo social e ele retorna se a igualdade está boa ou ruim. Refatorar a calculadora para que cada funcionalidade dela seja uma função separada em um módulo diferente. | 10
