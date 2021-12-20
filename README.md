@@ -12,6 +12,8 @@ Se você tem vontade de ensinar programação na sua região, mas não tem ideia
 
 > Sinta-se à vontade para enviar pull requests de melhorias neste documento ou abrir issues para tirar suas dúvidas.
 
+[APOIAR](https://apoia.se/uillaz)
+
 ## <a name='Sumrio'></a>Sumário
 
 <!-- vscode-markdown-toc -->
