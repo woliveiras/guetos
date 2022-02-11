@@ -1,18 +1,18 @@
 # Guetos Educacionais
 
-Iniciativa open source que visa espalhar programação para escolas públicas, ONGs, CEUs e qualquer lugar onde pudermos chegar para estimular pessoas em situação de vulnerabilidade social a aprender programação.
+Iniciativa open source que visa espalhar programação para escolas públicas, ONGs, CEUs e qualquer lugar onde pudermos chegar para estimular pessoas em situação de vulnerabilidade social.
 
-Qualquer pessoa pode implementar este projeto em qualquer lugar que achar possível.
+Qualquer pessoa pode implementar este projeto em qualquer lugar que achar possível. Será necessário analisar o conteúdo deste documento e se preparar para a implementação.
 
 Este documento é um modelo para ensinarmos programação. Você pode usar como base para o seu curso ou copiar a estrutura e mudar conforme suas necessidades/necessidades dos alunos e alunas.
 
-O documento contempla: estrutura do **programa Guetos Educacionais**, cronograma e materiais necessários para ensino. Este programa é uma iniciativa pessoal onde eu ensino pessoas nos CÉUs de São Paulo.
+O documento contempla: estrutura do **programa Guetos Educacionais**, cronograma e materiais necessários para ensino. Este programa é uma iniciativa pessoal onde eu ensino pessoas nos espaços públicos de São Paulo e na Twitch: [@1ilhas](https://twitch.tv/1ilhas).
 
 Se você tem vontade de ensinar programação na sua região, mas não tem ideia de como fazer isso, aqui temos tudo o que você precisa para tirar esse desejo do papel.
 
 > Sinta-se à vontade para enviar pull requests de melhorias neste documento ou abrir issues para tirar suas dúvidas.
 
-[APOIAR](https://apoia.se/uillaz)
+Para me apoiar, clique aqui: [APOIAR](https://apoia.se/uillaz)
 
 ## <a name='Sumrio'></a>Sumário
 
